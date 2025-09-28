@@ -1,0 +1,7 @@
+{
+  "parent": {
+    "child": {
+      "another_nested_level": "All is supported."
+    }
+  }
+}
