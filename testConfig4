@@ -1,0 +1,1 @@
+"sensors,device={dev} value={val},status={stat},succ={ok},err={err}
